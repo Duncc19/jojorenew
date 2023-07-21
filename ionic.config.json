@@ -1,0 +1,8 @@
+{
+  "name": "Jojo-renew",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "ec47b870"
+}
